@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/bootstrap-react/static/css/main.49290bfa.css",
+    "main.js": "/bootstrap-react/static/js/main.e51b422f.js",
+    "static/media/1.jpg": "/bootstrap-react/static/media/1.dfb665c46ccf730e5129.jpg",
+    "static/media/2.jpg": "/bootstrap-react/static/media/2.05a6f6dd0cf97a845c22.jpg",
+    "static/media/3.jpg": "/bootstrap-react/static/media/3.63f108101e78b946c7a5.jpg",
+    "index.html": "/bootstrap-react/index.html",
+    "main.49290bfa.css.map": "/bootstrap-react/static/css/main.49290bfa.css.map",
+    "main.e51b422f.js.map": "/bootstrap-react/static/js/main.e51b422f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49290bfa.css",
+    "static/js/main.e51b422f.js"
+  ]
+}
